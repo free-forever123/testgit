@@ -9,8 +9,8 @@
 
 int main(int argc,char ** argv)
 {
-    printf("OK!\n");
-    return 8;
+    printf("hello world!\n");
+    return 2;
 }
 
 

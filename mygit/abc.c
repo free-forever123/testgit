@@ -5,7 +5,11 @@
 
 int main(int argc,char **argv)
 {
-	printf("hello world\n");
+    int index ;
+    for(index = 0 ;index < 10 ;index++)
+    {
+        printf("hello world\n");
+    }
 	return 0;
 }
 
